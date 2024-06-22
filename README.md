@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasindu Jayawardana</h1>
-<h3 align="center" background-color="#e5e5f7">I'm curious human being who try to make some difference.</h3>
+<h3 align="center" color="red">I'm curious human being who try to make some difference.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasikaw&label=Profile%20views&color=0e75b6&style=flat" alt="sasikaw" /> </p>
 
