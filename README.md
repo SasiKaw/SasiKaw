@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikaw" alt="sasikaw" /></a> </p>
 
+<hr>
+
 - 🌱 I’m currently majoring **Software Engineering**
 
 - 💬 Ask me about **Java, C++, C#, Laravel**
