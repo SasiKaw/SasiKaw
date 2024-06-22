@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasindu Jayawardana</h1>
-<h3 align="center" style="background-color: #e5e5f7;
-opacity: 0.8;
-background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;">I'm curious human being who try to make some difference.</h3>
+<h3 align="center" background="#e5e5f7">I'm curious human being who try to make some difference.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasikaw&label=Profile%20views&color=0e75b6&style=flat" alt="sasikaw" /> </p>
 
