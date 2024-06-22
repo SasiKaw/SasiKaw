@@ -3,8 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasikaw&label=Profile%20views&color=0e75b6&style=flat" alt="sasikaw" /> </p>
 
-<p align="center" style="background: rgb(2,0,36);
-background: linear-gradient(16deg, rgba(2,0,36,1) 0%, rgba(157,197,201,1) 24%, rgba(0,212,255,1) 100%);"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikaw" alt="sasikaw" /></a> </p>
+<p align="center" style="background: rgb(2,0,36); background: linear-gradient(16deg, rgba(2,0,36,1) 0%, rgba(157,197,201,1) 24%, rgba(0,212,255,1) 100%); border-radius: 10px;"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sasikaw" alt="sasikaw" />
+    </a> 
+</p>
+
 
 - 🌱 I’m currently majoring **Software Engineering**
 
