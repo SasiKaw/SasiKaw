@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sasindu Jayawardana</h1>
-<h3 align="center">I'm curious human being who try to make some difference.</h3>
+<h3 align="center" style="background-color: #e5e5f7;
+opacity: 0.8;
+background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;">I'm curious human being who try to make some difference.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasikaw&label=Profile%20views&color=0e75b6&style=flat" alt="sasikaw" /> </p>
 
-<p align="center" style="background: rgb(2,0,36); background: linear-gradient(16deg, rgba(2,0,36,1) 0%, rgba(157,197,201,1) 24%, rgba(0,212,255,1) 100%); border-radius: 10px;"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sasikaw" alt="sasikaw" />
-    </a> 
-</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasikaw" alt="sasikaw" /></a> </p>
 
 - 🌱 I’m currently majoring **Software Engineering**
 
