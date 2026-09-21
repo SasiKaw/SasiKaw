@@ -27,8 +27,6 @@ My strongest interests are where **software engineering, machine learning, compu
 
 My long-term ambition is much bigger than simply becoming an AI engineer: I want to contribute to technologies that improve **cancer research, diagnosis and treatment**, and eventually help build a dedicated cancer research initiative of my own.
 
-I'm also preparing for a future **R&D engineering career in Japan**, while continuously strengthening my Python, ML engineering and production software skills.
-
 ---
 
 ## 🧠 What I'm Interested In
